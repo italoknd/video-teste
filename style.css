@@ -1,9 +1,5 @@
 div {
   display: flex;
   justify-content: center;
-  border-color: #8776de;
-
-  /* align-items: center; */
-  /* background-position: center center;
-  background-size: contain; */
+  border: 2px solid #8776de;
 }
